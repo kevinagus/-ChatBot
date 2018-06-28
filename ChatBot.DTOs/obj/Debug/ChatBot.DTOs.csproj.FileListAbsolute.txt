@@ -1,0 +1,6 @@
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\bin\Debug\ChatBot.DTOs.dll
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\bin\Debug\ChatBot.DTOs.pdb
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\obj\Debug\ChatBot.DTOs.csprojAssemblyReference.cache
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\obj\Debug\ChatBot.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\obj\Debug\ChatBot.DTOs.dll
+C:\Users\f.marcia\Desktop\ChatBot.DTOs\obj\Debug\ChatBot.DTOs.pdb
